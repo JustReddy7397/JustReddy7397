@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I'm JustReddy and i make discord bots and plugins for a block game :)
+## Socials:
+<p> Discord: JustReddy#7397 </p>
+<p> <a href="https://www.spigotmc.org/members/justreddy.860803/">SpigotMC</a> </p>
+<p> Youtube: https://youtube.com/justreddybw
 
 <!--
 **JustReddy7397/JustReddy7397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
