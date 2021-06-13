@@ -1,21 +1,8 @@
-### Hi there 👋
-## I'm JustReddy and i make discord bots and plugins for a block game :)
-## Socials:
-<p> Discord: JustReddy#7397 </p>
-<p> <a href="https://www.spigotmc.org/members/justreddy.860803/">SpigotMC</a> </p>
-<p> Youtube: https://youtube.com/justreddybw
+## Moron in coding
 
-<!--
-**JustReddy7397/JustReddy7397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools and Languages i use
+![](https://img.shields.io/badge/Editor%20JS-Webstorm-darkred) ![](https://img.shields.io/badge/Editor%20PY-Pycharm-darkred) ![](https://img.shields.io/badge/Editor%20Java-Intellij%20IDEA-darkred)
 
-Here are some ideas to get you started:
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justreddy7397)](https://github.com/justreddy7397/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
