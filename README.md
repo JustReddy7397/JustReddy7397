@@ -6,6 +6,6 @@
 ![](https://img.shields.io/badge/Code-Java-darkred?&logo=java) ![](https://img.shields.io/badge/Code-JavaScript-darkred?&logo=javascript) ![](https://img.shields.io/badge/Code-Python-darkred?&logo=python)
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justreddy7397&exclude_repo=milkyway.github.io,reddybot.github.io)](https://github.com/anuraghazra/github-readme-stats?&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustReddy7397&theme=dark&exclude_repo=milkyway.github.io,reddybot.github.io) ![](https://github-readme-stats.vercel.app/api?username=JustReddy7397&show_icons=true&theme=dark)
 
 
