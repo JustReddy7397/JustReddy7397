@@ -19,7 +19,7 @@
 [![Kotlin](https://img.shields.io/badge/KOTLIN-B75EA4?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 <h1>IDE and Tools</h1>
 
-![IntelliJ IDEA](https://img.shields.io/badge/Intellij IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntellijIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
