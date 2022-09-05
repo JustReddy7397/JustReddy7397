@@ -5,7 +5,7 @@
          
 <div align="center">
          
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/729270256777953312)](discord.com/users/729270256777953312)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/729270256777953312)](https://discord.com/users/729270256777953312)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=F70000&center=true&vCenter=true&lines=I'm+a+moron+that+loves+to+code+%3AD)](https://git.io/typing-svg)
