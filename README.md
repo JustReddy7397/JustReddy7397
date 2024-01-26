@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Reddy</h1>
-         
+<h1 align="center" href="https://github.com/sponsors/JustReddy7397">Sponsor me nerds <3</h1>
 <div align="center">
          
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/729270256777953312)](https://discord.com/users/729270256777953312)
