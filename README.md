@@ -7,7 +7,7 @@
 [Sponsor Me Nerds](https://github.com/sponsors/JustReddy7397)
 <div align="center">
          
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/729270256777953312)](https://discord.com/users/729270256777953312)
+![Discord Presence](https://lanyard.kyrie25.dev/api/729270256777953312?idleMessage=Probably%20eating.%20Ping%20me%20and%20get%20eaten%20aswell.)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=F70000&center=true&vCenter=true&lines=I'm+a+moron+that+loves+to+code+%3AD)](https://git.io/typing-svg)
