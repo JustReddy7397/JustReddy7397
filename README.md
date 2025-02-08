@@ -1,3 +1,4 @@
+<img src="https://www.moonvive.com/images/logo_horizontal.webp">
 <h1 align="center">Sup <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -12,10 +13,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=F70000&center=true&vCenter=true&lines=I'm+a+moron+that+loves+to+code+%3AD)](https://git.io/typing-svg)
 </div>
+
 <div align="center">
+
+[![Profile](https://komarev.com/ghpvc/?username=JustReddy7397&label=Profile%20Views%20&color=ff0000&style=flat-square
+)](#)  
   
 <h1>Languages and frameworks</h1>
-  
+
+
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
