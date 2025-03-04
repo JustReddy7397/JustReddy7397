@@ -11,7 +11,7 @@
 ![Discord Presence](https://lanyard.kyrie25.dev/api/729270256777953312?idleMessage=Probably%20eating.%20Ping%20me%20and%20get%20eaten%20aswell.)
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&color=F70000&center=true&vCenter=true&lines=I'm+a+moron+that+loves+to+code+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=500&color=F70000&center=true&vCenter=true&random=true&width=435&lines=Java+And+Backend+dev+for+The+Universe;5%2B+years+experience+in+Java+%26+Spigot+API;2%2B+years+experience+in+Typescript)](https://discord.gg/theuniverse)
 </div>
 
 <div align="center">
